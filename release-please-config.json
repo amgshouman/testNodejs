@@ -1,7 +1,0 @@
-{
-  "versioning-strategy": "default",
-  "changelog-path": "CHANGELOG.md",
-  "changelog-type": "default",
-  "target-branch": "main",
-  "release-type": "node"
-}
