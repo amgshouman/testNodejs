@@ -1,5 +1,18 @@
 # Changelog
 
+## [2.2.0](https://github.com/amgshouman/testNodejs/compare/v2.1.0...v2.2.0) (2025-03-12)
+
+
+### Features
+
+* okokaisdjfslihjf ([113be13](https://github.com/amgshouman/testNodejs/commit/113be13611b2859a8e70b699b8fd11fd2a0ab1a3))
+* okokaisdjfslihjf ([9ea9362](https://github.com/amgshouman/testNodejs/commit/9ea93625cacf6e2ba9e13f5c7df9db3f9fcd9e69))
+
+
+### Bug Fixes
+
+* oksadiofhsiuhfd ([4a7688e](https://github.com/amgshouman/testNodejs/commit/4a7688e9a800235ac3fc2b66789c387919da1a83))
+
 ## [2.1.0](https://github.com/amgshouman/testNodejs/compare/v2.0.1...v2.1.0) (2025-03-12)
 
 
