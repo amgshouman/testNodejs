@@ -2,6 +2,9 @@
 ## [Unreleased]
 
 
+<a name="v50.0.0"></a>
+## [v50.0.0] - 2025-03-12
+
 <a name="v33.0.0"></a>
 ## [v33.0.0] - 2025-03-12
 
@@ -52,7 +55,8 @@
 - adds v4 UUID to crypto
 
 
-[Unreleased]: https://github.com/amgshouman/testNodejs.git/compare/v33.0.0...HEAD
+[Unreleased]: https://github.com/amgshouman/testNodejs.git/compare/v50.0.0...HEAD
+[v50.0.0]: https://github.com/amgshouman/testNodejs.git/compare/v33.0.0...v50.0.0
 [v33.0.0]: https://github.com/amgshouman/testNodejs.git/compare/v5.0.0...v33.0.0
 [v5.0.0]: https://github.com/amgshouman/testNodejs.git/compare/v4.0.0...v5.0.0
 [v4.0.0]: https://github.com/amgshouman/testNodejs.git/compare/v2.2.0...v4.0.0
