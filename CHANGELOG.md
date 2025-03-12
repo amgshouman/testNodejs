@@ -1,5 +1,12 @@
 # Changelog
 
+## [2.1.0](https://github.com/amgshouman/testNodejs/compare/v2.0.1...v2.1.0) (2025-03-12)
+
+
+### Features
+
+* testttttttt ([bfd295f](https://github.com/amgshouman/testNodejs/commit/bfd295f2709064824835bac6dfe5d539093a2e6c))
+
 ## [2.0.1](https://github.com/amgshouman/testNodejs/compare/v2.0.0...v2.0.1) (2025-03-11)
 
 
