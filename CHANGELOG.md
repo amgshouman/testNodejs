@@ -1,5 +1,16 @@
 # Changelog
 
+## [3.0.0](https://github.com/amgshouman/testNodejs/compare/v2.2.0...v3.0.0) (2025-03-12)
+
+
+### ⚠ BREAKING CHANGES
+
+* OK
+
+### Features
+
+* OK ([d025c6c](https://github.com/amgshouman/testNodejs/commit/d025c6c2b2c862d0c9ef66026a3071a4b0a6ba79))
+
 ## [2.2.0](https://github.com/amgshouman/testNodejs/compare/v2.1.0...v2.2.0) (2025-03-12)
 
 
