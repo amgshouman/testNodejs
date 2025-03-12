@@ -1,0 +1,11 @@
+{
+  "git": {
+    "tag": true,
+    "push": true
+  },
+  "github": false,
+  "npm": false,
+  "gitlab": {
+    "release": true
+  }
+}
