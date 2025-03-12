@@ -1,4 +1,11 @@
 <a name="unreleased"></a>
+## [3.0.1](https://github.com/amgshouman/testNodejs/compare/v3.0.0...v3.0.1) (2025-03-12)
+
+
+### Bug Fixes
+
+* FIXFIXFIX ([d3800bd](https://github.com/amgshouman/testNodejs/commit/d3800bd1de4886c9555daffbc6104dd67b33ea1d))
+
 ## [Unreleased]
 
 
